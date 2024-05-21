@@ -3,6 +3,6 @@
 
 Trabalho feito por:
 
-Adriane Damasceno Sarmento
-Lucas Campinas
-Lukas Maksymeo
+- Adriane Damasceno Sarmento
+- Lucas Campinas
+- Lukas Maksymeo
